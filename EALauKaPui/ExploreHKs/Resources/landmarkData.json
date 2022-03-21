@@ -1,0 +1,386 @@
+[
+    {
+        "name": "Star Ferry",
+        "category": "Good Things in HK",
+        "city": "Hong Kong",
+        "district": "Tsim Sha Tsui",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "shortDesc": "Between Central and Tsim Sha Tsui as well as between Wan Chai and Tsim Sha Tsui",
+        "coordinates": {
+            "longitude": 114.16890518300092,
+            "latitude": 22.293899864123357
+        },
+        "description": "\nStarting from 1 April 1999, most of the ferry services are provided by licensed ferry operators. There are now 12 ferry operators providing 19 regular licensed passenger ferry services to outlying islands and across the Harbour as at 31 Dec 2020. Still, there remains two franchised ferry services operated by \"Star\" Ferry plying between Central and Tsim Sha Tsui as well as between Wan Chai and Tsim Sha Tsui. \n\nThe licensed and franchised ferry services are supplemented by \"kaitos\" which are licensed to serve remote coastal settlements. \n\nIn 2020, ferry passengers amounted to about 31 million.",
+        "imageName": "hongkongferry"
+    },
+    {
+        "name": "Montane Mansion",
+        "category": "Editor's Choices",
+        "city": "Hong Kong",
+        "district": "Quarry Bay",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "Tightly packed tenement buildings in HK used for blockbuster films",
+        "coordinates": {
+            "longitude": 114.21198663094694,
+            "latitude": 22.284359183838482
+        },
+        "description": "\nThe Montane Mansion is one of five separate residential towers that form what is informally known as the Monster Building in Quarry Bay. These are tightly packed tenements that were built in the 1960s and one of the best examples of 'Old Hong Kong' from that period. As such, this location has become a popular location for blockbuster films including the likes of Ghost in the Shell and Transformers: Age of Extinction.",
+        "imageName": "montanemansion"
+    },
+    {
+        "name": "Public Transport in Hong Kong",
+        "category": "Good Things in HK",
+        "city": "Hong Kong",
+        "district": "All places in Hong Kong",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "shortDesc": "Taxis, MTR (Mass Transit Railway), buses, minibuses, tramways, and ferries",
+        "coordinates": {
+            "longitude": 114.1694,
+            "latitude": 22.3193
+        },
+        "description": "\nThe land transport in Hong Kong comprises taxis, MTR (Mass Transit Railway), buses, minibuses, tramways. On the sea travelers may use ferries. Also, travelers can pay their trips by cash or buy the Octopus Card and use its to travel on the MTR, buses, ferries or trams. \n\nMore Info: \nhttps://www.discoverhongkong.com/eng/plan/traveller-info/getting-around.html",
+        "imageName": "hongkongtransportation"
+    },
+    {
+        "name": "HKeMobility",
+        "category": "Good Things in HK",
+        "city": "Hong Kong",
+        "district": "All places in Hong Kong",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "shortDesc": "HKeMobility website provides one-stop service of point to point public transport, driving and walking route enquiry, real-time traffic condition and parking ...",
+        "coordinates": {
+            "longitude": 114.1694,
+            "latitude": 22.3193
+        },
+        "description": "\nThe Transport Department (TD) launched a new version of the \"HKeMobility\" mobile application.\n\nIt provides a one-stop platform for the public to conveniently search for information including routes of different transportation modes, journey time, transport fares, etc. and disseminates real-time traffic news to enhance user experience and facilitate public’s mobility. (including walking, driving, taking public transport, etc.).\n\nMore Info:\nhttps://www.hkemobility.gov.hk/en/route-search/pt",
+        "imageName": "hkemobility"
+    },
+    {
+        "name": "Ladies' Market",
+        "category": "Editor's Choices",
+        "city": "Hong Kong",
+        "district": "Mong Kok",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "Ladies' Market is a popular place to shop for affordable fashion goods in Hong Kong. This open-air market runs the length of Tung Choi Street in Mong Kok.",
+        "coordinates": {
+            "longitude": 114.1687397,
+            "latitude": 22.3176139
+        },
+        "description": "\nLadies' Market in Mongkok is always a treat to visit with the rows of open stalls as well as tiny boutiques offering a wide range of different fashions, accessories, gadgets and gimicks.  Frequented as much by Hongkongers as by tourists it maintains a special place in the heart of every lady, and quite a few gents, in HK.  From tourist souvineers like place name boards through travel essentials such as luggage there is always something to see and browse. We never leave the street empty-handed even if we go there just for a look!",
+        "imageName": "ladiesmarket"
+    },
+    {
+        "name": "Hong Kong Tramways",
+        "category": "Good Things in HK",
+        "city": "Hong Kong",
+        "district": "Hong Kong Island",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "Find your way around Hong Kong with double-deck trams, the most affordable, convenient and greenest public transport mode in the city.",
+        "coordinates": {
+            "longitude": 114.187262,
+            "latitude": 22.279361
+        },
+        "description": "\nHong Kong Tramways is a 3 ft 6 in narrow-gauge tram system in Hong Kong. Owned and operated by RATP Dev Transdev Asia, the tramway runs on Hong Kong Island between Kennedy Town and Shau Kei Wan, with a branch circulating through Happy Valley.",
+        "imageName": "hongkongtramways"
+    },
+    {
+        "name": "About ExploreHKs",
+        "category": "Good Things in HK",
+        "city": "Hong Kong",
+        "district": "All about Hong Kong",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "shortDesc": "Explore your trip in Hong Kong!",
+        "coordinates": {
+            "longitude": 114.1694,
+            "latitude": 22.3193
+        },
+        "description": "Discover the charm of Hong Kong in just a few steps.",
+        "imageName": "hongkong"
+    },
+    {
+        "name": "Victoria Harbour",
+        "category": "Editor's Choices",
+        "city": "Hong Kong",
+        "district": "Hong Kong",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "Victoria Harbour is a natural landform harbour in Hong Kong separating Hong Kong Island in the south from the Kowloon Peninsula to the north.",
+        "coordinates": {
+            "longitude": 114.1326906,
+            "latitude": 22.3075215
+        },
+        "description": "\nThere is no attraction in Hong Kong that is more iconic than the skyline of Victoria Harbour. In fact, one can say that the harbour was the very birthplace of the city itself. The deep waters between Hong Kong Island and the Kowloon Peninsula are why a collection of fishing villages grew to become an international centre of trade. Today, the harbour is still the city’s throbbing heart and its iconic skyline is also one of the world’s most stunning urban landscapes. With such a skyline, it deserves to been seen at more than one angle.",
+        "imageName": "victoriaharbour"
+    },
+    {
+        "name": "The Mills",
+        "category": "Editor's Choices",
+        "city": "Hong Kong",
+        "district": "Tsuen Wan",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "The Mills is a landmark revitalization project from Nan Fung Group. A destination consisting of a business incubator, experiential retail, and a non-profit ...",
+        "coordinates": {
+            "longitude": 114.1079808,
+            "latitude": 22.3750756
+        },
+        "description": "\nThe Mills is a landmark revitalization project from Nan Fung Group. A destination consisting of a business incubator, experiential retail, and a non-profit cultural institution may be relatively unfamiliar to Hong Kong people; yet you will discover from The Mills’ vision and history that it is a purely Hong Kong story.\n\nThe Mills witnessed the manufacturing heyday in the 1960s, and now carries on that legacy with a future of applied creativity and innovation. Visitors can explore the continuity of an authentic Hong Kong story, where themes of textile and industry are woven into experiences of innovation, culture, and learning.",
+        "imageName": "themills"
+    },
+    {
+        "name": "Victoria Peak",
+        "category": "Editor's Choices",
+        "city": "Hong Kong",
+        "district": "Central and Western District",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "Perching on The Peak at 396 metres above sea level, The Peak Tower is one of the most stylish architectural icons in Hong Kong. Inside The Peak ...",
+        "coordinates": {
+            "longitude": 114.1280224,
+            "latitude": 22.2758822
+        },
+        "description": "\nVictoria Peak is a hill on the western half of Hong Kong Island. It is also known as Mount Austin, and locally as The Peak. With an visited of 552 metres (1,811 ft), it is the highest hill on Hong Kong Island, ranked 29 in terms of visited in Hong Kong (Tai Mo Shan is the highest point in Hong Kong with an visited of 957 metres (3,140 ft)). It is a major tourist attraction offering views of Central, Victoria Harbour, Lamma Island and the surrounding islands. \n\nThe summit of Victoria Peak is occupied by a radio telecommunications facility and is closed to the public. The surrounding area of public parks, tourist facilities and high-value residential land is the area that is normally meant by the name The Peak. In a broad sense, The Peak may also refer to Victoria Peak itself and its nearby areas, including Victoria Gap, Mount Kellett and Mount Gough.",
+        "imageName": "victoriapeak"
+    },
+    {
+        "name": "Aqua Luna",
+        "category": "Good Things in HK",
+        "city": "Hong Kong",
+        "district": "Victoria Harbour",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "Sail Victoria Harbour with amazing city views on one of the last red sail Chinese junk boats. 45-minute cruises including spectacular Symphony of Lights.",
+        "coordinates": {
+            "longitude": 114.1326906,
+            "latitude": 22.3075215
+        },
+        "description": "\nThe Aqua Luna, known in Cantonese as the Cheung Po Tsai, is a Chinese Junk operating in Victoria Harbour, Hong Kong. It was launched in 2006, and while it is named the Aqua Luna in English, in Cantonese it is named after the 19th-century Chinese pirate Cheung Po Tsai.",
+        "imageName": "hongkongsailboat"
+    },
+    {
+        "name": "Hong Kong Disneyland",
+        "category": "Editor's Choices",
+        "city": "Hong Kong",
+        "district": "Lantau Island",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "Hong Kong Disneyland Resort offers immersive, unique Disney experiences for all families, generations and ages to enjoy. We welcome all guests to share with ...",
+        "coordinates": {
+            "longitude": 114.0412819,
+            "latitude": 22.3129666
+        },
+        "description": "\nHong Kong Disneyland is a theme park located on reclaimed land in Penny's Bay, Lantau Island. It is located inside the Hong Kong Disneyland Resort and it is owned and managed by Hong Kong International Theme Parks. It is the largest theme park in Hong Kong, followed by Ocean Park Hong Kong.",
+        "imageName": "hongkongdisneyland"
+    },
+    {
+        "name": "Possession Street",
+        "category": "Discover Your Trips!",
+        "city": "Hong Kong",
+        "district": "Sheung Wan",
+        "id": 1013,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "Possession Street is a street in Sheung Wan, from Queen's Road West to Hollywood Road, on the Hong Kong Island in Hong Kong. The street marks the boundary of Queen's Road West and Queen's Road Central.",
+        "coordinates": {
+            "longitude": 114.1461961,
+            "latitude": 22.285952
+        },
+        "description": "\nOrdinary as it may seem, Possession Street has a significant place in the history of Hong Kong. On 25 January 1841, the British navy arrived at nearby Possession Point (now Hollywood Road Park) and began 150 years of colonial rule, marked by a flag-raising ceremony the day after the initial landing. Originally perched on the waterfront, Possession Street was given a new lease of life through reclamation. The area is now dotted with hip restaurants and boutiques, alongside historic stores where you can still sample a taste of an older Hong Kong.",
+        "imageName": "PossessionStreet"
+    },
+    {
+        "name": "Chu Wing Kee",
+        "category": "Discover Your Trips!",
+        "city": "Hong Kong",
+        "district": "Sheung Wan",
+        "id": 1014,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "Chu Wing Kee is located at Possession Street, the spot where the British first landed on Hong Kong Island in 1841. · Like many traditional ...",
+        "coordinates": {
+            "longitude": 114.148051,
+            "latitude": 22.285684
+        },
+        "description": "\nThis iconic neighbourhood homeware shop is a treasure trove of household goods from a time gone by. A dwindling sight in Hong Kong, Chu Wing Kee is a place where you can find stacks of old-school crockery and teapots, bamboo baskets dangling from the ceiling, and feather dusters and kerosene stoves tucked away in corners. Forget mass-produced modern items and opt for these classic and affordable Hong Kong products, which also make for great souvenirs.",
+        "imageName": "ChuWingKee"
+    },
+    {
+        "name": "Tai Ping Shan Street",
+        "category": "Discover Your Trips!",
+        "city": "Hong Kong",
+        "district": "Sheung Wan",
+        "id": 1015,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "Tai Ping Shan Street is a street marking the early colonial history in Hong Kong. Located at the north slope of Victoria Peak in Sheung Wan, the street starts east from a ladder street at the junction with Bridges Street and end west in Po Yan Street near Tung Wah Hospital. The street runs parallel to Hollywood Road.",
+        "coordinates": {
+            "longitude": 114.148464,
+            "latitude": 22.284618
+        },
+        "description": "\nWalk up from Possession Street and you will find yourself at Tai Ping Shan Street. A number of distinctive ancient temples line the two sides of this 300-metre-long path. The most eye-catching of them all is probably the smoky, red temple called Kwong Fook I Tsz. Built in 1856, it is a classic example of a temple that fulfilled diverse roles. It was an ancestral temple for migrant families, a shelter for the ill and also housed memorial tablets for immigrant workers who passed away while in Hong Kong. Also be sure to visit Kwun Yum Temple near the staircase, and the unassuming Fook Tak Palace — all of which are still frequented by worshippers.",
+        "imageName": "TaiPingShanStreet"
+    },
+    {
+        "name": "Upper Lascar Row",
+        "category": "Discover Your Trips!",
+        "city": "Hong Kong",
+        "district": "Sheung Wan",
+        "id": 1016,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "Lascar Row is the combined name of two streets between Hollywood Road and Queen's Road Central in Sheung Wan, Hong Kong, Upper Lascar Row and Lok Ku Road. The immediate area is notable for its antique stalls.",
+        "coordinates": {
+            "longitude": 114.149665,
+            "latitude": 22.284923
+        },
+        "description": "\nThe highlight of Upper Lascar Row is the seemingly endless row of antique stores, offering an eclectic collection of Chinese calligraphy, arts and vintage furniture. This runs parallel to stalls that sell an array of bric-à-brac collectibles, such as Mao Zedong alarm clocks and Bruce Lee posters. In recent years, local designer boutiques and vintage clothing stores have popped up nearby, attracting more locals as well as visitors.",
+        "imageName": "UpperLascarRow"
+    },
+    {
+        "name": "Man Mo Temple",
+        "category": "Discover Your Trips!",
+        "city": "Hong Kong",
+        "district": "Sheung Wan",
+        "id": 1017,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "1800s temple featuring a lavish, traditional interior with dozens of incense spirals overhead.",
+        "coordinates": {
+            "longitude": 114.1501897,
+            "latitude": 22.2839538
+        },
+        "description": "\nA five-minute walk from Tai Ping Shan Street, Man Mo Temple is a stunning complex estimated to have been built more than 150 years ago. It comprises three blocks, each serving different purposes. The namesake structure, Man Mo Temple, pays tribute to the God of Literature and the God of War, while Lit Shing Kung was created for all heavenly gods. Finally, Kung Sor was an assembly hall for resolving community disputes. \n\nA great place to visit for history lovers, the well-preserved historic building houses a bronze bell dating back to 1847 and a sedan chair from 1862. The structure itself is just as fascinating, and comprises granite pillars, granite door frames, engraved wood plaques and ancient mural paintings.",
+        "imageName": "ManMoTemple"
+    },
+    {
+        "name": "Pak Tsz Lane Park",
+        "category": "Discover Your Trips!",
+        "city": "Hong Kong",
+        "district": "Central",
+        "id": 1018,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "The park is located in central Hong Kong, in a quiet square behind Aberdeen Street, Hollywood Road, Gage Street and Peel Street. It is close to the rear of 52 ...",
+        "coordinates": {
+            "longitude": 114.152881,
+            "latitude": 22.283418
+        },
+        "description": "\nPak Tsz Lane Park is one of the 16 stops along the Dr Sun Yat-sen Historic Trail. This tranquil patch of green was built to commemorate the achievements of the Furen Literary Society, which was founded by revolutionary leaders Yeung Ku-wan and Tse Tsan-tai in 1892. The group eventually merged with Dr Sun’s Revive China Society and was heavily involved in the 1911 Chinese Revolution. Revitalised with an urban architectural design, this memorial park features exhibition panels and interactive facilities that traces the society’s history and revolutionary activities.",
+        "imageName": "PakTszLanePark"
+    },
+    {
+        "name": "46 Graham Street / 48 Hollywood Road",
+        "category": "Discover Your Trips!",
+        "city": "Hong Kong",
+        "district": "Central",
+        "id": 1019,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "46 Graham Street / 48 Hollywood Road ... Without a doubt the most photographed example of street art in Hong Kong, local graffiti artist Alex Croft's colourful ...",
+        "coordinates": {
+            "longitude": 114.153018,
+            "latitude": 22.282492
+        },
+        "description": "\nWithout a doubt the most photographed example of street art in Hong Kong, local graffiti artist Alex Croft’s colourful mural of old townhouses shines a light on the city’s iconic tong lau tenement buildings. Boasting a vibrant blue background, this piece of street art is vibrant and colourful window into the past.",
+        "imageName": "46GrahamStreet48HollywoodRoad"
+    },
+    {
+        "name": "Tai Cheong",
+        "category": "Discover Your Trips!",
+        "city": "Hong Kong",
+        "district": "Central",
+        "id": 1020,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "Tai Cheong Bakery is a famous and traditional bakery of Hong Kong that is most well-known for its egg tarts and Chinese donut. Among Hong Kong's ...",
+        "coordinates": {
+            "longitude": 114.153547,
+            "latitude": 22.282555
+        },
+        "description": "\nFancy a piping hot, silky and irresistibly aromatic egg tart? Grab one from Tai Cheong Bakery. With more than 60 years of history, this time-tested shop used to be a favourite of Hong Kong’s last colonial governor, Chris Patten. Although the bakery now has branches all across the city, the original location on Lyndhurst Terrace remains the most iconic.",
+        "imageName": "TaiCheong"
+    },
+    {
+        "name": "Lan Fong Yuen",
+        "category": "Discover Your Trips!",
+        "city": "Hong Kong",
+        "district": "Central",
+        "id": 1021,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "Founded in 1952, Lan Fong Yuen is now one of Hong Kong's most historic cha chaan tengs (tea restaurants), with its main restaurant located on Gage Street in ...",
+        "coordinates": {
+            "longitude": 114.153715,
+            "latitude": 22.282735
+        },
+        "description": "\nIf you want a cup of authentic Hong Kong-style milk tea, Lan Fong Yuen is the place to go. The popular beverage was influenced by British culture but is made with evaporated milk and sugar. At Lan Fong Yuen, be sure to try the famous “silk stocking milk tea” which is passed through a fine mesh to give it a particularly smooth texture. While Lan Fong Yuen’s original street stall still stands today under the Central-Mid-Levels escalator, diners can also head to the sit-down restaurant right next door to enjoy dishes such as the chicken noodles with scallion oil.",
+        "imageName": "LanFongYuen"
+    },
+    {
+        "name": "Tai Kwun",
+        "category": "Discover Your Trips!",
+        "city": "Hong Kong",
+        "district": "Central",
+        "id": 1022,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "Tai Kwun is the Centre for Heritage and Arts, a place of inspiration, stimulation and enjoyment for all Hong Kong people. Tai Kwun aspires to offer the best ...",
+        "coordinates": {
+            "longitude": 114.15414,
+            "latitude": 22.28182
+        },
+        "description": "\nTai Kwun, meaning ‘big station’ in Cantonese, was a nickname for the former Central Police Station Compound, which boasts a history of more than 170 years. The site comprises 16 heritage buildings – all magnificent works of architecture. \n\nWonderfully preserved, the historical site has since been transformed into an arts and culture hub. Along with two newly built structures, the original buildings now house art galleries, retail shops and various bars and restaurants. Tai Kwun also hosts curated art exhibitions, performances, workshops and guided tours, so be sure to check ahead for schedules and details.",
+        "imageName": "TaiKwun"
+    },
+    {
+        "name": "Piqniq",
+        "category": "Discover Your Trips!",
+        "city": "Hong Kong",
+        "district": "Central",
+        "id": 1023,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "PIQNIQ is Hong Kong's first rooftop guinguette. Located atop Hong Kong's new cultural hotspot H Queen's, PIQNIQ is a rooftop terrace for the free-spirited ...",
+        "coordinates": {
+            "longitude": 114.15531,
+            "latitude": 22.283093
+        },
+        "description": "\nThis rooftop terrace is one of the coolest places in town to wine, dine and be merry. Complementing the stunning views, the space is decorated with one of the iconic polka-dot pumpkins by world-renowned Japanese artist Yayoi Kusama. In this stylish and whimsical space, chill out on one of the comfy beanbags and enjoy wines, cocktails and a variety of ‘piqniq’ baskets filled with international dishes ranging from charcuterie and cheese to spicy tuna maki and the thick-cut ‘Wagyu Sando’.",
+        "imageName": "Piqniq"
+    },
+    {
+        "name": "Hong Kong Observatory",
+        "category": "Good Things in HK",
+        "city": "Hong Kong",
+        "district": "Tsim Sha Tsui",
+        "id": 1024,
+        "isFeatured": false,
+        "isFavorite": false,
+        "shortDesc": "The Hong Kong Observatory is a government department responsible for monitoring and forecasting weather, as well as issuing warnings on weather-related ...",
+        "coordinates": {
+            "longitude": 114.1720311,
+            "latitude": 22.3021718
+        },
+        "description": "\nThe Hong Kong Observatory is a government department responsible for monitoring and forecasting weather, as well as issuing warnings on weather-related hazards. The Observatory also monitors and assesses radiation levels in Hong Kong, and provides other meteorological and geophysical services to meet the needs of the public and the shipping, aviation, industrial and engineering sectors.",
+        "imageName": "hongkongobservatory"
+    }
+]
